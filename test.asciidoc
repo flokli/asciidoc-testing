@@ -1,0 +1,7 @@
+# Nix Doc
+
+## NixOS module doc
+[[option-network.networking]]This is a paragraph describing the networking NixOS module
+
+## Some other doc
+Please take a look at the <<option-network.networking,networking module>> for more of it!
